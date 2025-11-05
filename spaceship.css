@@ -1,0 +1,29 @@
+
+label {
+
+    font-family: 'Nova Mono', monospace;
+}
+button {
+    font-family: 'Arial', monospace;
+    font-size: 20px;
+    height: 40px;
+    width: 200px;
+}
+
+input {
+    font-family: 'Arial', monospace;
+    font-size: 20px;
+
+}
+body {
+    background-color: rgb(103, 98, 98);
+}
+.container {
+    position: absolute;
+}
+#canvas {
+    position: absolute;
+    background: #000;
+}
+
+  
