@@ -93,5 +93,5 @@ let interval = 0;
 function update() {
     plot_cells_page();
     apply_rule(f);
-    random_fog();
+    random_fog(chance);
 }
